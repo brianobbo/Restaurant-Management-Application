@@ -21,15 +21,14 @@ To run the restaurant management application locally, follow these steps:
 
 ### Backend Setup
 1. Clone the repository: `git clone https://github.com/your-username/restaurant-management-app.git`
-2. Navigate to the backend directory: `cd restaurant-management-app/backend`
+2. Navigate to the backend directory: `cd restaurant-management-app/restaurant-management-app-backend`
 3. Install dependencies: `npm install`
 4. Set up environment variables:
-   - Create a `.env` file based on the `.env.example` file
    - Set the necessary environment variables for your MongoDB connection
 5. Start the backend server: `npm start`
 
 ### Frontend Setup
-1. Navigate to the frontend directory: `cd restaurant-management-app/frontend`
+1. Navigate to the frontend directory: `cd restaurant-management-app/restaurant-management-app-frontend`
 2. Install dependencies: `npm install`
 3. Start the frontend development server: `npm start`
 
